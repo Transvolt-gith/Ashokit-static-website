@@ -11,7 +11,7 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 1;
+  margin: 0;
 }
 article,
 aside,
@@ -47,7 +47,7 @@ a {
 }
 a:active,
 a:hover {
-  outline: 1;
+  outline: 0;
 }
 abbr[title] {
   border-bottom: 1px dotted;
